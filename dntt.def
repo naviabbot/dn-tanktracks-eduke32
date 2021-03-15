@@ -11,7 +11,7 @@ music { id "E1L5" file "highres/tanktracks/Electricity.ogg" } // The Abyss
 music { id "E2L3" file "highres/tanktracks/BlackBeans.ogg" } // Warp Factor
 music { id "E2L6" file "highres/tanktracks/ForwardToThe90s.ogg" } // Tiberius Station
 music { id "E2L10" file "highres/tanktracks/Sniper.ogg" } // Spin Cycle
-music { id "E2L11" file "highres/tanktracks/KickinItOldSchool.ogg" } // Lunatic Fringe
+music { id "E2L11" file "highres/tanktracks/KickinItOldStyle.ogg" } // Lunatic Fringe
 
 // EPISODE THREE
 
