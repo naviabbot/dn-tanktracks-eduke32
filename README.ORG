@@ -10,7 +10,7 @@
   - 7zip (p7zip on Linux/BSD)
 
 * The How-to
-  Simply unzip the ogg files from Lee Jackson's pack into the `highres/tanktracks/` folder. Remove the placeholder file when you do so. Zip up the two defs and the highres folder into a simple zip, perhaps named `tanktracks.zip`.
+  Simply unzip the ogg files from Lee Jackson's pack into the `highres/tanktracks/` folder. Remove the placeholder file when you do so. Zip up the two defs and the highres folder into a simple zip, perhaps named `tanktracks.zip`. Drop it in your eDuke32 'autoload' folder.
 
 * Legal Warnings
   Lee Jackson worked hard on this pack. If you wish to share this with other eDuke players, please point them towards both the original [[https://montrose.is/dnttoggpack/][ogg pack]] and this git repository. Seriously. He gets all the cash and he bloody well deserves it.
