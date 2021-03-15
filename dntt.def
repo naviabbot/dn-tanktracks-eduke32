@@ -1,0 +1,28 @@
+// No new Grabbag made it in this pack. If you have another pack loaded, it will use that or the MIDI version.
+
+// EPISODE ONE
+
+music { id "E1L2" file "highres/tanktracks/Abandonment.ogg" } // Red Light District
+music { id "E1L4" file "highres/tanktracks/UndergroundTrain.ogg" } // Toxic Dump
+music { id "E1L5" file "highres/tanktracks/Electricity.ogg" } // The Abyss
+
+// EPISODE TWO
+
+music { id "E2L3" file "highres/tanktracks/BlackBeans.ogg" } // Warp Factor
+music { id "E2L6" file "highres/tanktracks/ForwardToThe90s.ogg" } // Tiberius Station
+music { id "E2L10" file "highres/tanktracks/Sniper.ogg" } // Spin Cycle
+music { id "E2L11" file "highres/tanktracks/KickinItOldSchool.ogg" } // Lunatic Fringe
+
+// EPISODE THREE
+
+music { id "E3L1" file "highres/tanktracks/GutRumble.ogg" } // Raw Meat
+music { id "E3L3" file "highres/tanktracks/InnerSpace.ogg" } // Flood Zone
+music { id "E3L4" file "highres/tanktracks/DigDeep.ogg" } // L.A. Rumble
+music { id "E3L5" file "highres/tanktracks/Marsch.ogg" } // Movie Set
+music { id "E3L8" file "highres/tanktracks/Ike2.ogg" } // Hotel Hell
+music { id "E3L10" file "highres/tanktracks/Crystalline.ogg" } // Tier Drops
+music { id "E3L11" file "highres/tanktracks/NightStorm2.ogg" } // Freeway
+
+// EPISODE FOUR
+
+music { id "E4L8" file "highres/tanktracks/Megamusic.ogg" } // Critical Mass

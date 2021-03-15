@@ -1,0 +1,16 @@
+#+TITLE: Duke Nukem Tank Tracks for eDuke32
+#
+* About
+  Commonly known as the Composer of Infinite Power, Lee Jackson is the legendary man who wrote the music to Duke Nukem 3D. In late February of 2021, he released a 15 track album of music based off of various levels found in Duke Nukem 3D and it's various expansions over the years. One way one can enjoy the music is via the OGG pack released for use with 20th Anniv/World Tour edition. As such, it will not work with eDuke32. This project exists to provide the necessary def files to get it working
+
+* Dependencies
+  - eDuke32
+  - A copy of Duke Nukem 3D (either Atomic from GOG or Megaton from Steam)
+  - A copy of Lee Jackson's "Duke Nukem Tank Tracks" OGG pack
+  - 7zip (p7zip on Linux/BSD)
+
+* The How-to
+  Simply unzip the ogg files from Lee Jackson's pack into the `highres/tanktracks/` folder. Zip up the two defs and the highres folder into a simple zip, perhaps named `tanktracks.zip`.
+
+* Legal Warnings
+  Lee Jackson worked hard on this pack. If you wish to share this with other eDuke players, please point them towards both the original [[https://montrose.is/dnttoggpack/][ogg pack]] and this git repository. Seriously. He gets all the cash and he bloody well deserves it.
