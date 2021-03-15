@@ -1,7 +1,7 @@
 #+TITLE: Duke Nukem Tank Tracks for eDuke32
 
 * About
-  Commonly known as the Composer of Infinite Power, Lee Jackson is the legendary man who wrote the music to Duke Nukem 3D. In late February of 2021, he released a 15 track album of music based off of various levels found in Duke Nukem 3D and it's various expansions over the years. One way one can enjoy the music is via the OGG pack released for use with 20th Anniv/World Tour edition. As such, it will not work with eDuke32. This project exists to provide the necessary def files to get it working
+  Commonly known as the Composer of Infinite Power, Lee Jackson is the legendary man who wrote a good portion of the music to Duke Nukem 3D. In late February of 2021, he released a 15 track album of music based off of various levels found in Duke Nukem 3D and it's various expansions over the years. One way one can enjoy the music is via the OGG pack released for use with 20th Anniv/World Tour edition. As such, it will not work with eDuke32. This project exists to provide the necessary def files to get it working
 
 * Dependencies
   - eDuke32
